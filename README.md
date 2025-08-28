@@ -28,10 +28,3 @@ Visualization: Plotly (Gauge chart for safety score)
 Backend/Checks: Python (requests, BeautifulSoup, socket, ssl, selenium)
 
 AI Summarization: Hugging Face InferenceClient with Mixtral-8x7B-Instruct
-**How to Run**
-git clone https://github.com/your-username/dark-pattern-detector.git
-cd dark-pattern-detector
-
-pip install - required for ur system
-hf_api_token = "your-huggingface-api-token"
-streamlit run app.py
